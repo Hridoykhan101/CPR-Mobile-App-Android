@@ -1,0 +1,13 @@
+How to generate the QR Code
+
+Mac address of bluetooth device: DB:C1:3A:28:42:DD
+Dummy code: AAAA
+
+Convert to hex
+DBC13A2842DD
+41414141
+
+Combine together
+DBC13A2842DD41414141
+
+Use the code above as the QRCode text
